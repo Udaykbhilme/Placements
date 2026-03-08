@@ -3,15 +3,24 @@
 This project is a small analytics dashboard built to explore trends in college placement data.
 It started as a simple exercise in analyzing a CSV file with Python and slowly turned into a deployed web application.
 
+
+![Resident Evil Leon GIF](https://github.com/user-attachments/assets/8c2b2c06-9b62-44a4-b429-23696f528c3b)
+
+  ( honestly, was just practising)
+
+           
 The dashboard allows users to explore placement statistics, view recruitment patterns, and filter results by year.
 
 Live demo:
-https://placements-dashboard-qnww.onrender.com
+https://placements-dashboard-qnww.onrender.com ( well, that's not live now... cuz you need to buy stupid $7 subcription from render for this shit. Anyways, it does work offline)
 
 ## What the dashboard shows
 
 The application analyzes a dataset containing company placements, salaries, and yearly trends.
 It calculates and displays:
+
+<img width="1362" height="999" alt="Screenshot 2026-03-09 at 2 11 55 AM" src="https://github.com/user-attachments/assets/5b8dbcc5-315e-4593-96db-70fa3b434030" />
+
 
 * Total placements
 * Average salary
@@ -100,5 +109,7 @@ Some ideas for extending the project:
 * adding an admin interface for updating the dataset
 
 ## Author
+![Resident Evil GIF](https://github.com/user-attachments/assets/34711f83-859b-4987-98d0-5fa48b695e9d)
 
-Built as a learning project to practice combining data analysis with web development and deployment.
+That's all, see yaa gang soon. 
+and yeah, any issues just DM me on X. 
