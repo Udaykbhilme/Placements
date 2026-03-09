@@ -12,7 +12,7 @@ It started as a simple exercise in analyzing a CSV file with Python and slowly t
 The dashboard allows users to explore placement statistics, view recruitment patterns, and filter results by year.
 
 Live demo:
-https://placements-dashboard-qnww.onrender.com ( well, that's not live now... cuz you need to buy stupid $7 subcription from render for this shit. Anyways, it does work offline)
+https://placements-dashboard-qnww.onrender.com ( well, don't be surprised if it takes time to open up late as they sorta shut down if they don't sense any traffic📉)
 
 ## What the dashboard shows
 
